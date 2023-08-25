@@ -8962,7 +8962,7 @@ Sticky Menu
   position: fixed;
   border-radius: 100%;
   line-height: 55px;
-  background-image: linear-gradient(-45deg, #e511e6 32%, #6b2c94 100%);
+  background-image: linear-gradient(-45deg, #45c153 32%, #f56834 100%);
 }
 
 .saas-classic-scrollup i {
@@ -8989,7 +8989,7 @@ Sticky Menu
   font-weight: 700;
   border-radius: 30px;
   display: inline-block;
-  border: 2px solid #6c2b95;
+  border: 2px solid #f56834;
 }
 
 .saas_btn:before {
@@ -9050,13 +9050,13 @@ Sticky Menu
 .saas_two_banner_section .s2-banner_content .s2-tilte_tag,
 .saas_two_feature_section .s2-feature_text .feature_tag,
 .integration_section .integration_text .feature_tag {
-  color: #951fb3;
+  color: #45c153;
   font-size: 18px;
   font-weight: 500;
   padding: 3px 30px;
   border-radius: 8px;
   display: inline-block;
-  background-color: #ede0f4;
+  background-color: #45c1532e;
 }
 
 .saas_two_section_title h2,
@@ -9085,7 +9085,7 @@ Sticky Menu
 .saas_two_banner_section .s2-banner_content .banner_btn a i,
 .saas_two_feature_section .s2-feature_text .saas_btn a i,
 .s2-pricing_section .s2-pricing_item .s2-pricing_btn a i {
-  background: linear-gradient(-45deg, #6b2c94 32%, #fc01fd 100%);
+  background: linear-gradient(-45deg, #f56834 32%, #f56834 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -9171,7 +9171,7 @@ Sticky Menu
   right: 0;
   top: 45px;
   right: 15px;
-  box-shadow: 0 0 30px 31px rgba(213, 8, 217, 0.9);
+  box-shadow: 0 0 30px 31px rgba(8, 217, 16, 0.9);
   border-radius: 50%;
   z-index: -1;
   opacity: 0;
@@ -9190,7 +9190,7 @@ Sticky Menu
   right: 0;
   z-index: -2;
   transition: 0.3s all ease-in-out;
-  background-color: #6c2b95;
+  background-color: #45c153;
 }
 
 .saas_two_banner_section .s2-banner_content .banner_btn a:hover,
@@ -9270,7 +9270,7 @@ Sticky Menu
 
 .saas_two_main_header .s2-main-navigation .navbar-nav li .active,
 .saas_two_main_header .s2-main-navigation .navbar-nav li a:hover {
-  color: #d10edd;
+  color: #f56834;
 }
 
 .saas_two_main_header .s2-main-navigation .navbar-nav li a:hover:before,
@@ -9283,7 +9283,7 @@ Sticky Menu
   position: absolute;
   height: 2px;
   width: 0%;
-  background-color: #d10edd;
+  background-color: #f56834;
   left: 2px;
   transition: 0.3s all ease-in-out;
   bottom: 25px;
@@ -9304,7 +9304,7 @@ Sticky Menu
 }
 
 .saas_two_main_header .s2-main-navigation .dropdown:hover:after {
-  color: #d10edd;
+  color: #f56834;
 }
 
 .saas_two_main_header .saas_sign_up_btn {
@@ -9494,11 +9494,11 @@ Sticky Menu
   border-radius: 50px;
   margin-right: 20px;
   font-weight: 700;
-  color: #010101;
+  color: #45c153;
   font-family: "Poppins";
   display: inline-block;
   z-index: 1;
-  border: 2px solid #6c2b95;
+  border: 2px solid #f56834;
 }
 
 .saas_two_banner_section .s2-banner_content .banner_btn a i {
@@ -9570,7 +9570,7 @@ Sticky Menu
   border-radius: 10px;
   position: absolute;
   transition: 0.5s all ease-in-out;
-  background-image: linear-gradient(45deg, #fc01fd 32%, #6b2c94 100%);
+  background-image: linear-gradient(45deg, #45c153  32%, #f56834  100%);
 }
 
 .saas_two_service_section .service_content_box:after {
@@ -9606,7 +9606,7 @@ Sticky Menu
   svg {
   height: 48px;
   width: 48px;
-  fill: #30347b;
+  fill: #45c153;
 }
 
 .saas_two_service_section .service_content_box .service_icon_box .lower_icon {
@@ -9623,7 +9623,7 @@ Sticky Menu
   svg {
   width: 45px;
   height: 45px;
-  fill: #c4a2fc;
+  fill: #28a74542;
 }
 
 .saas_two_service_section .service_content_box .service_text_box h3 {
@@ -9685,7 +9685,7 @@ Sticky Menu
   padding-top: 15px;
   border-radius: 100%;
   margin-bottom: 16px;
-  background-color: #6c2b95;
+  background-color: #f56834;
 }
 
 .saas_two_about_section .s2-about_text_icon .s2-about_icon svg {
@@ -9863,7 +9863,7 @@ Sticky Menu
   .s2-feature_right
   .s2-feature_list:nth-child(3)
   .s2-feature_icon {
-  background-color: #ebdcf4;
+  background-color: #f4e6dc;
 }
 
 .saas_two_feature_section
@@ -9871,13 +9871,13 @@ Sticky Menu
   .s2-feature_list:nth-child(3)
   .s2-feature_icon
   i {
-  color: #d912dc;
+  color: #f56834;
 }
 
 .saas_two_feature_section
   .s2-feature_right
   .s2-feature_list:nth-child(3):before {
-  background-color: #d912dc;
+  background-color: #f56834;
 }
 
 /*---------------------------------------------------- */
@@ -10157,7 +10157,7 @@ Sticky Menu
 .s2-faq_section .s2_faq_content button:after {
   top: 5px;
   right: 0;
-  color: #951fb3;
+  color: #45c153;
   font-size: 14px;
   content: "";
   font-weight: 900;
@@ -10250,7 +10250,7 @@ Sticky Menu
   border-radius: 8px;
   transform: scale(0.5);
   transition: 0.4s all ease-in-out;
-  background-image: linear-gradient(-45deg, #e511e6 32%, #6b2c94 100%);
+  background-image: linear-gradient(-45deg, #f56834 32%, #45c153 100%);
 }
 
 .s2-pricing_section .s2-pricing_item .s2-pricing_price .s2-pricing_text {
@@ -10364,7 +10364,7 @@ Sticky Menu
   color: #010101;
   font-family: "Poppins";
   display: inline-block;
-  border: 2px solid #6c2b95;
+  border: 2px solid #f56834;
 }
 
 .s2-pricing_section .s2-pricing_item .s2-pricing_btn a i {
@@ -10422,7 +10422,7 @@ Sticky Menu
   position: relative;
   border-radius: 20px;
   padding: 45px 0px 60px;
-  background-color: #6c2b95;
+  background-color: #f56834;
   box-shadow: 0px 0px 16px 0px rgba(27, 2, 52, 0.34);
 }
 
@@ -10466,7 +10466,7 @@ Sticky Menu
   width: 155px;
   color: #fff;
   border-radius: 5px;
-  background-color: #f104f5;
+  background-color: #45c153;
   position: absolute;
   top: 0;
   right: 0;
@@ -10509,7 +10509,7 @@ Sticky Menu
 }
 
 .saas_two_footer_section .s2_footer_widget .s2_footer_about span {
-  color: #f104f5;
+  color: #f56834;
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -10553,16 +10553,16 @@ Sticky Menu
   left: 0px;
   bottom: 0;
   transition: 0.3s all ease-in-out;
-  background-color: #f104f5;
+  background-color: #f56834;
 }
 
 .saas_two_footer_section .s2_footer_widget .s2_footer_menu li a:hover {
   margin-left: 25px;
-  color: #f104f5;
+  color: #f56834;
 }
 
 .saas_two_footer_section .s2_footer_widget .s2_footer_menu li a:hover:before {
-  color: #f104f5;
+  color: #f56834;
 }
 
 .saas_two_footer_section .s2_footer_widget .s2_footer_menu li a:hover:after {
@@ -10608,7 +10608,7 @@ Sticky Menu
   background: transparent !important;
 }
 .s2_footer_social p a:hover {
-  color: #f104f5 !important;
+  color: #f56834 !important;
 }
 .saas_two_footer_section .s2_footer_widget .s2_footer_social a:hover {
   transform: scale(1.1);
@@ -10664,7 +10664,7 @@ Sticky Menu
 }
 
 .s2-copyright a {
-  color: #d772fe;
+  color: #f56834;
 }
 
 @keyframes slide {
