@@ -9570,7 +9570,7 @@ Sticky Menu
   border-radius: 10px;
   position: absolute;
   transition: 0.5s all ease-in-out;
-  background-image: linear-gradient(45deg, #45c153  32%, #f56834  100%);
+  background-image: linear-gradient(45deg, #45c153 32%, #f56834 100%);
 }
 
 .saas_two_service_section .service_content_box:after {
@@ -10819,7 +10819,7 @@ Sticky Menu
   right: 0;
   cursor: pointer;
   line-height: 40px;
-  color: #73299a;
+  color: #f56834;
   text-align: center;
   font-size: 30px;
   top: -40px;
