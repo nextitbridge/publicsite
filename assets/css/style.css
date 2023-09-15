@@ -1,95 +1,4 @@
 @charset "UTF-8";
-/*----------------------------------------------------
-@File: Default Styles
-@Author: 
-@URL: 
-
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
-/*=====================================================================
-@Template Name: 
-@Author: Themexriver.
-
-**Css Table Of Content**
-1- App Landing--
-  *1- Global Area
-  *2- Header Area
-  *3- Banner Area
-  *4- Feature Area
-  *5- Service Area
-  *6- Funfact Area
-  *7- How this work Area
-  *8- App Download Area
-  *9- Team Area
-  *10- FAQ area
-  *11- App Screenshoot Area
-  *12- Testimonial Area
-  *13- Partner Area
-  *14- Newslatter Area
-  *15- Footer Area
-2- Digital SEO --
-  *1- Global Area
-  *2- Header Area
-  *3- Banner Area
-  *4- Service Area
-  *5- ABout Area
-  *6- Newslatter Area
-  *7- Mission Area
-  *8- Pricing Plan Area
-  *9= Testimonial Area
-  *10- Case Study Area
-  *11- Call to Action Area
-  *12- Blog Area
-  *13- Footer
-3- SaaS Modern--
-  *1- Global Area
-  *2- Header Area
-  *3- Banner Area
-  *4- Featured Area
-  *5- ABout Area
-  *6- Partner Area
-  *7- Team Area
-  *8- Testimonial Area
-  *9- Newslatter Area 
-4- SaaS Classic --
-  *1- Global Area
-  *2- Header Area
-  *3- Banner Area
-  *4- Service Area
-  *5- ABout Area
-  *6- Feature Area
-  *7- Team Area
-  *8- FAQ Area
-  *9= Pricing Area
-  *10- Footer
- 5- StartUp Agency --
-  *1- Global Area
-  *2- Header Area
-  *3- Banner Area
-  *4- Feature Area
-  *5- ABout Area
-  *6- Work Process Area
-  *7- Portfolio Area
-  *8- Testimonial Area
-  *9= Partner Area
-  *10- Footer 
- 2- Digital Agency --
-  *1- Global Area
-  *2- Header Area
-  *3- Banner Area
-  *4- Service Area
-  *5- CountDown Area
-  *6- About Area
-  *7- Experience Area
-  *8- PortFolio Area
-  *9= Team Area
-  *10- Testimonial Area
-  *11- Blog Area
-  *12- Newslatter Area
-  *13- Footer 
-  =====================================================================*/
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Poppins:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700|Roboto:100,500,300,400,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
@@ -18834,4 +18743,27 @@ SaaSio - HR Management
 }
 .sa-contact-inner-btn {
   width: 100%;
+}
+.readmore{
+    height: 40px;
+    width: 140px;
+    text-align: center;
+    line-height: 37px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-family: "Poppins";
+    display: inline-block;
+    z-index: 1;
+    border: 2px solid #f56834;
+    margin-top: 13px;
+}
+.readmore:hover{
+  color: #45c153;;
+  text-decoration:none;
+    border: 2px solid #45c153;
+
+}
+.img-holder{
+  height: 420px;
+  overflow: hidden;
 }
