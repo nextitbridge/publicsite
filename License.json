@@ -24,10 +24,10 @@
   "HardDisk":"S1CUNYAFC05216"
   },
 {
-  "FullName":"demo",
+  "FullName":"Demo",
   "Status":"active",
-  "ExpDate":"2025-02-28",
-  "HardDisk":""
+  "ExpDate":"2025-01-28",
+  "HardDisk":"Demo123"
   },
 {
   "FullName":"demo-noor",
