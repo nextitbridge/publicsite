@@ -3,19 +3,31 @@
   "FullName":"Noor Muhammad",
   "Status":"active",
   "ExpDate":"2025-02-28",
-  "HardDisk":"W0Q5TLPY"
+  "HardDisk":"W0Q5TLPY",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true
   },
   {
   "FullName":"Muhammad Azam",
   "Status":"active",
   "ExpDate":"2025-02-28",
-  "HardDisk":"204357801463"
+  "HardDisk":"204357801463",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true
   },
   {
   "FullName":"Educator",
   "Status":"active",
   "ExpDate":"2025-02-28",
-  "HardDisk":"204357801463"
+  "HardDisk":"204357801463",
+    "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true
   },
   {
   "FullName":"Dar-e-urqam",
@@ -27,18 +39,30 @@
   "FullName":"Demo",
   "Status":"active",
   "ExpDate":"2025-05-30",
-  "HardDisk":"Demo123"
+  "HardDisk":"Demo123",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true
   },
  {
   "FullName":"demo-noor",
   "Status":"active",
   "ExpDate":"2025-02-28",
-  "HardDisk":"4EF081E3"
+  "HardDisk":"4EF081E3",
+   "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true
   },
  {
-  "FullName":"Shoaib",
+  "FullName":"Azam-Office-Laptop",
   "Status":"active",
   "ExpDate":"2025-02-28",
-  "HardDisk":"E823_8FA6_BF53_0001_001B_444A_4856_818E."
+  "HardDisk":"E823_8FA6_BF53_0001_001B_444A_4856_818E.",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true
   }
 ]
