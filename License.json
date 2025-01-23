@@ -7,7 +7,8 @@
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
-  "CanSendFile":true
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
   },
   {
   "FullName":"Muhammad Azam",
@@ -17,23 +18,30 @@
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
-  "CanSendFile":true
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
   },
   {
   "FullName":"Educator",
   "Status":"active",
   "ExpDate":"2025-02-28",
   "HardDisk":"204357801463",
-    "MaxMessageLimit":2000,
+  "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
-  "CanSendFile":true
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
   },
   {
   "FullName":"Dar-e-urqam",
   "Status":"active",
   "ExpDate":"2025-02-28",
-  "HardDisk":"S1CUNYAFC05216"
+  "HardDisk":"S1CUNYAFC05216",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
   },
 {
   "FullName":"Demo",
@@ -43,7 +51,8 @@
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
-  "CanSendFile":true
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
   },
  {
   "FullName":"demo-noor",
@@ -53,7 +62,8 @@
    "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
-  "CanSendFile":true
+  "CanSendFile":true,
+   "Version":"20250123-0.0.1"
   },
  {
   "FullName":"Azam-Office-Laptop",
@@ -63,7 +73,8 @@
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":false,
-  "CanSendFile":true
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
   },
  {
   "FullName":"Sualeha Saleem",
@@ -73,7 +84,8 @@
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
-  "CanSendFile":true
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
   },
    {
   "FullName":"Shoaib Ghori",
@@ -83,6 +95,7 @@
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
-  "CanSendFile":true
+  "CanSendFile":true,
+    "Version":"20250123-0.0.1"
   }
 ]
