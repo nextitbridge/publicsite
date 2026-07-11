@@ -1,5 +1,15 @@
 [
 {
+  "FullName":"American  School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",  "HardDisk":"daa9921f-fb79-429c-b3ba-9ebb058d141a" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+},
+{
   "FullName":"American School",
   "Status":"active",
   "ExpDate":"2026-12-30", 
