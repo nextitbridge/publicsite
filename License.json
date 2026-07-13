@@ -264,17 +264,6 @@
   "CanSendFile":false,
   "Version":"20250123-0.0.1"
   },
-   {
-  "FullName":"Azeem Talent School",
-  "Status":"active",
-  "ExpDate":"2025-12-31",
-  "HardDisk":"07472a9e-c083-43b8-902c-810620f16449",
-  "MaxMessageLimit":2000,
-  "MessageForClient":"",
-  "CanSendImage":false,
-  "CanSendFile":false,
-  "Version":"20250123-0.0.1"
-  },
   {
   "FullName":"Furqan",
   "Status":"active",
