@@ -1,4 +1,16 @@
 [
+  
+  {
+  "FullName":"Force School and College",
+  "Status":"active",
+  "ExpDate":"2026-12-30", 
+ "HardDisk":"c144d3d1-93f4-42b5-a4c3-b50ea856ca73" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+},
 {
   "FullName":"Azeem talent school",
   "Status":"active",
